@@ -15,4 +15,4 @@
 - CSS: Style the app for an appealing look.
 - JavaScript: Add interactivity and functionality to the app.
 ##### Installation
-- To use the Meals App, simply open the app in your web browser. 
+- To use the Meals App, simply open the app in your web browser.
